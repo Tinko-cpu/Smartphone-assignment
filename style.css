@@ -1,0 +1,56 @@
+body{
+    color: #06113C;
+}
+
+.container {
+    max-width: 30%;
+    background-color: #DDDDDD;
+    border: 2px solid white;
+    border-radius: 18px;
+    margin: 100px auto;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+table {
+    border: 1px solid #456869;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+table thead tr th, td{
+    color: #06113C;
+    border: 1px solid #06113C;
+    border-radius: 10px;
+
+}
+
+table tbody tr td:hover{
+    background-color: #FF8C32 ;
+}
+
+ img{
+    height: 80px;
+    background-color: #781235;
+}
+
+#myMessage {
+    margin-top: 20px;
+
+}
+
+footer p{
+    font-size: 12px;
+    color: red;
+
+}
+
+footer p span{
+    color: blue;
+    font-weight: bold;
+    font-size: 8px;
+}
