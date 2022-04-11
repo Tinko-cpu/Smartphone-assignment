@@ -54,3 +54,14 @@ footer p span{
     font-weight: bold;
     font-size: 8px;
 }
+
+.amazone {
+    background-color: #06113C;
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.showImages {
+    visibility: hidden;
+}
